@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://www.hanoverresearch.com/wp-content/uploads/2020/05/CALARTS-01.png" alt="Calarts Creative Computing Logo" width="300"/>
+</p>
 
 ![Calarts Creative Computing Logo](https://i.imgur.com/235dOcD.png)
 
@@ -10,6 +12,4 @@ Creative Computing at California Institute of the Arts is a forward-thinking int
   <a href="https://creativecomputing.calarts.edu/">Learn More</a>
 </p>
 
-<p align="center">
-  <img src="https://www.hanoverresearch.com/wp-content/uploads/2020/05/CALARTS-01.png" alt="Calarts Creative Computing Logo" width="300"/>
-</p>
+
