@@ -3,4 +3,4 @@ Creative Computing at California Institute of the Arts is a forward-thinking int
 
 [Learn More](https://creativecomputing.calarts.edu/)
 
-![Calarts Creative Computing Logo](https://www.hanoverresearch.com/wp-content/uploads/2020/05/CALARTS-01.png)
+<center> ![Calarts Creative Computing Logo](https://www.hanoverresearch.com/wp-content/uploads/2020/05/CALARTS-01.png)
