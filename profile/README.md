@@ -13,5 +13,5 @@ Creative Computing at California Institute of the Arts is a forward-thinking int
 </p>
 
 <p align="center">
-  <img src="https://creativecomputing.calarts.edu/wp-content/uploads/2019/10/CIA_20130124_8449.jpg" alt="CalArts Creative Computing" width="600">
+  <img src="https://creativecomputing.calarts.edu/wp-content/uploads/2019/10/CIA_20130124_8449.jpg" alt="CalArts Creative Computing" width="100%">
 </p>
